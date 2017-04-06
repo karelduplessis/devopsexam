@@ -1,0 +1,49 @@
+Add-in Express Registrator Log File: 08/19/2016 09:48:05
+
+Installation directory: C:\Program Files\Condeco\Condeco Outlook Add-in 6.2\
+Registrator version: 8.0.4330.0
+Operating System: Microsoft Windows 7 Enterprise Edition Service Pack 1 (build 7601), 32-bit
+Process Owner: System
+Command Line: "C:\Program Files\Condeco\Condeco Outlook Add-in 6.2\adxregistrator.exe" /install="CondecoAddinV2.dll" /privileges=admin
+Run 'As Administrator': Yes
+Process Elevated: Yes
+Integrity Level: System
+UAC (User Account Control): Off
+--------------------------------------------------------------
+09:48:05 0156 Starting the add-in registration process.
+09:48:05 0156 Loading mscoree.dll
+09:48:05 0156 Success.
+09:48:05 0156 .NET Framework installation directory: 
+09:48:05 0156 The latest version of .NET Framework: 'v4.0.30319'
+09:48:05 0156 Loading CLR: v4.0.30319.
+09:48:05 0156 Calling CLRCreateInstance method.
+09:48:05 0156 Success.
+09:48:05 0156 Calling GetRuntime method.
+09:48:05 0156 Success.
+09:48:05 0156 Checking if the hosting API of .NET Framework v4.0 beta is installed.
+09:48:05 0156 The hosting API is up to date.
+09:48:05 0156 Calling GetInterface method for the CorRuntimeHost interface.
+09:48:05 0156 Success.
+09:48:05 0156 Starting CLR...
+09:48:05 0156 Success.
+09:48:05 0156 Getting the CLR version.
+09:48:05 0156 The CLR v4.0.30319 has been initialized successfully.
+09:48:05 0156 Creating a new domain setup.
+09:48:05 0156 Success.
+09:48:05 0156 Getting the add-in directory.
+09:48:05 0156 Success. The directory is 'C:\Program Files\Condeco\Condeco Outlook Add-in 6.2\'
+09:48:05 0156 The 'shadow copy' is disabled.
+09:48:05 0156 Creating a new application domain.
+09:48:05 0156 Success.
+09:48:05 0156 Getting the base directory for the domain.
+09:48:05 0156 Success. The directory is 'C:\Program Files\Condeco\Condeco Outlook Add-in 6.2\'.
+09:48:05 0156 Searching for the Add-in Express core library.
+09:48:05 0156 Success. The 'AddinExpress.MSO.2005.dll' file is found.
+09:48:05 0156 Creating an instance of the 'AddinExpress.Deployment.ADXRegistrator' class.
+09:48:05 0156 Assembly identity is 'AddinExpress.MSO.2005'.
+09:48:05 0156 Success.
+09:48:05 0156 Unwrapping the instance of the 'AddinExpress.Deployment.ADXRegistrator' class.
+09:48:05 0156 Success.
+09:48:05 0156 Calling the managed registration procedure (DISPID = 1610743823).
+09:48:05 0156 Success.
+09:48:05 0156 The add-in registration process is completed with HRESULT = 0.
