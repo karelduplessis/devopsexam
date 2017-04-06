@@ -1,0 +1,63 @@
+Add-in Express Loader Log File: 04/06/2017 13:25:27:042
+
+Startup directory: C:\Program Files\Condeco\Condeco Outlook Add-in 6.2\
+Loader version: 8.0.4330.0
+Operating System: Microsoft Windows 7 Enterprise Edition Service Pack 1 (build 7601), 32-bit
+Process Owner: Administrator
+Command Line: "C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE" 
+Run 'As Administrator': Yes
+Process Elevated: Yes
+Integrity Level: High
+UAC (User Account Control): Off
+------------------------------------------------------------------------
+13:25:27:044 5668 0920 Start.
+13:25:27:044 5668 0920 Creating a new instance of the add-in loader.
+13:25:27:044 5668 0920 Loading mscoree.dll
+13:25:27:045 5668 0920 Success.
+13:25:27:045 5668 0920 Loading the configuration from the system registry.
+13:25:27:045 5668 0920 Getting the latest CLR version.
+13:25:27:048 5668 0920 The latest CLR version is 'v4.0.30319'.
+13:25:27:048 5668 0920 The configuration has been loaded successfully.
+13:25:27:048 5668 0920     Runtime version: v4.0.30319.
+13:25:27:048 5668 0920     Assembly name: CondecoAddinV2, PublicKeyToken=10F2DC5A7538E601.
+13:25:27:048 5668 0920     Class name: CondecoAddinV2.AddinModule.
+13:25:27:048 5668 0920     Registry key: CLSID\{3F567CC8-72F9-4087-80E9-71DCAF3575F9}.
+13:25:27:368 5668 0920 Attempting to create a new instance of the managed add-in class: CLR - v4.0.30319
+13:25:27:369 5668 0920 Loading CLR: v4.0.30319.
+13:25:27:369 5668 0920 Calling CLRCreateInstance method.
+13:25:27:369 5668 0920 Success.
+13:25:27:369 5668 0920 Calling GetRuntime method.
+13:25:27:370 5668 0920 Success.
+13:25:27:370 5668 0920 Checking if the hosting API of .NET Framework v4.0 beta is installed.
+13:25:27:530 5668 0920 The hosting API is up to date.
+13:25:27:530 5668 0920 Calling GetInterface method for the CorRuntimeHost interface.
+13:25:27:530 5668 0920 Success.
+13:25:27:530 5668 0920 Starting CLR...
+13:25:27:531 5668 0920 Success.
+13:25:27:531 5668 0920 Getting the CLR version.
+13:25:27:531 5668 0920 The CLR v4.0.30319 has been initialized successfully.
+13:25:27:531 5668 0920 Creating a new domain setup.
+13:25:27:534 5668 0920 Success.
+13:25:27:534 5668 0920 Getting the add-in directory.
+13:25:27:534 5668 0920 Success. The directory is 'C:\Program Files\Condeco\Condeco Outlook Add-in 6.2\'
+13:25:27:537 5668 0920 The configuration file is 'C:\Program Files\Condeco\Condeco Outlook Add-in 6.2\App.config'
+13:25:27:537 5668 0920 The 'shadow copy' is enabled.
+13:25:27:537 5668 0920 Creating a new application domain.
+13:25:27:566 5668 0920 Success.
+13:25:27:566 5668 0920 Creating an instance of the managed class. Assembly identity: 'CondecoAddinV2, PublicKeyToken=10F2DC5A7538E601'
+13:25:29:963 5668 0920 Success.
+13:25:29:964 5668 0920 Unwrapping the managed class.
+13:25:29:986 5668 0920 Success.
+13:25:29:987 5668 0920 Querying the add-in extensibility.
+13:25:29:987 5668 0920 Success.
+13:25:29:987 5668 0920 Querying the custom task panes.
+13:25:29:987 5668 0920 Success.
+13:25:29:987 5668 0920 Querying the ribbon extensibility.
+13:25:29:987 5668 0920 Success.
+13:25:29:988 5668 0920 Querying the form regions.
+13:25:29:988 5668 0920 Success.
+13:25:29:988 5668 0920 Querying the encryption provider.
+13:25:29:988 5668 0920 The 'EncryptionProvider' interface is not supported.
+13:25:29:989 5668 0920 Getting the dispid of the 'Dispose' method.
+13:25:29:999 5668 0920 Success.
+13:25:29:999 5668 0920 The instance of the managed add-in class has been created successfully.
